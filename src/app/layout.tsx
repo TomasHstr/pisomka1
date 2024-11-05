@@ -1,7 +1,7 @@
 // src/app/layout.tsx
 
 import { Metadata } from "next";
-import "./globals.css";
+import "/Users/HesteraTomáš/OneDrive - Stredná priemyselná škola elektrotechnická/nextjs/pisomka1/styles/Home.module.css";
 import Navbar from "../components/NavBar";
 import AuthProvider from "../components/AuthProvider";
 
